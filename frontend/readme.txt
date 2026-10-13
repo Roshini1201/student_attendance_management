@@ -1,1 +1,1 @@
-hi
+Student Attendance Management
